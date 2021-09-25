@@ -1,11 +1,10 @@
-# build-cash-register-manager
-### markTen - Make a cash register
+# GetYourCash
+### 
 A cash register manager which helps the user by telling how can he/she return the change to the customer with minimum number of notes.
 <br/>
 <br/>
 
-# Problem Statement
-#### [**basic buildOne**](https://github.com/neogcamp/build/blob/main/basics/cash-register-manager.md)
+
 
 # How to use:
  - Enter the bill amount you have to pay & click on **Next**
